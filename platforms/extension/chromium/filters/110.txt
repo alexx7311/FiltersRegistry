@@ -2,7 +2,7 @@
 ! Diff-Path: ../patches/110/110-s-1707-14400.patch
 ! Title: EasyList Lithuania
 ! Description: Additional filter list for websites in Lithuanian.
-! Version: 2.0.2.80
+! Version: 2.0.2.78
 ! TimeUpdated: 2024-02-10T01:01:40+00:00
 ! Expires: 3 hours (update frequency)
 !
