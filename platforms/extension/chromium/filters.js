@@ -998,7 +998,7 @@
 			"groupId": 7,
 			"subscriptionUrl": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",
 			"trustLevel": "high",
-			"version": "2.0.2.78",
+			"version": "2.0.2.80",
 			"timeUpdated": "2024-02-10T01:01:40+0000",
 			"languages": [
 				"lt"
